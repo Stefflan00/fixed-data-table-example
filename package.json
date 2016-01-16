@@ -1,5 +1,5 @@
 {
-  "name": "react-starter",
+  "name": "fixed-data-table-example",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,9 @@
   "license": "ISC",
   "dependencies": {
     "babelify": "^7.2.0",
-    "browserify": "^9.0.3",
+    "browserify": "^12.0.1",
     "fixed-data-table": "^0.6.0",
-    "gulp": "^3.8.11",
+    "gulp": "^3.9.0",
     "gulp-concat": "^2.5.2",
     "gulp-react": "^3.0.1",
     "gulp-sass": "^2.0.1",
@@ -19,8 +19,8 @@
     "gulp-util": "^3.0.4",
     "gulp-watch": "^4.2.4",
     "node-notifier": "^4.2.1",
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
     "reactify": "^1.1.0",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^2.4.0"

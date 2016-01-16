@@ -14,7 +14,7 @@ var babelify = require('babelify');
 var notify = function(error) {
   var message = 'In: ';
   var title = 'Error: ';
-
+  console.log(error);
   if(error.description) {
     title += error.description;
   } else if (error.message) {
